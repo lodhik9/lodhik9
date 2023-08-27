@@ -12,17 +12,7 @@ I'm most proficient using the following languages and technologies:
 * 🎨 CSS / [Sass](https://github.com/sass/) / [Less](https://github.com/less/)
 * 📄 HTML / [Twig](https://github.com/twigphp/)
 
-
-
-
-
-
-
 Some more links:
 
-
-
-
-* 🌎 [Personal website](https://neustadt.dev)
-* 🛒 [Shopware community store manufacturer](https://store.shopware.com/en/open-source-plugins.html)
-* 💬 [Stackoverflow](https://stackoverflow.com/users/855625
+* 🛒 [LinkedIn](https://www.linkedin.com/in/muhammad-khan-lodhi/)
+* 💬 [Stackoverflow](https://stackoverflow.com/users/22289437/mlodhi)
