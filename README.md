@@ -1,5 +1,5 @@
 
-I'm a software developer at **Tanmar Webentwiclung** and have a history of working with the different stacks of mobile and web development.
+I'm a software developer and have a history of working with the different stacks of mobile and web development.
 
 
 I'm most proficient using the following languages and technologies:
