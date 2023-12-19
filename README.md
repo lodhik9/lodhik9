@@ -13,7 +13,7 @@ I'm most proficient using the following languages and technologies:
 * 📄 HTML / [Twig](https://github.com/twigphp/)
 
 ### You are visitor: 
-![Visitor Count](https://profile-counter.glitch.me/{Kamran-Dev}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
 
 Some more links:
 
