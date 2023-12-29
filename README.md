@@ -18,5 +18,3 @@ I'm most proficient using the following languages and technologies:
 Some more links:
 
 * 🛒 [LinkedIn](https://www.linkedin.com/in/muhammad-khan-lodhi/)
-
-
