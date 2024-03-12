@@ -1,17 +1,19 @@
 
-I'm a software developer and have a history of working with the different stacks of mobile and web development.
+I'm a **Software Engineer** with a history of working with different mobile and web development stacks.
 
-
-I'm most proficient using the following languages and technologies:
+ You can reach me through: <a href="https://www.linkedin.com/in/muhammad-khan-lodhi/">
+ <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 
 ### **Languages and Tools:**  
+I'm most proficient using the following languages and technologies:
+
 * 💙 [Shopware 6](https://github.com/shopware/platform/) / [Next.js](https://github.com/vercel/next.js) / [Flutter](https://github.com/flutter/flutter)
 * 🐘 PHP / [Symfony](https://github.com/symfony/)
 * 🔎 SQL / [Elasticsearch](https://github.com/elastic/elasticsearch/)
 * 🔨️ JavaScript / [React.js](https://github.com/reactjs)
 * 🎨 CSS / [Sass](https://github.com/sass/) / [Less](https://github.com/less/)
 * 📄 HTML / [Twig](https://github.com/twigphp/)
-
+  
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,flutter,tailwind,react,next,nodejs,git,github,postman,stackoverflow" />
@@ -20,7 +22,3 @@ I'm most proficient using the following languages and technologies:
 
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
-
-Some more links:
-
-* 🛒 [LinkedIn](https://www.linkedin.com/in/muhammad-khan-lodhi/)
