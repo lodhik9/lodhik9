@@ -35,3 +35,8 @@ I'm most proficient using the following languages and technologies:
 
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
