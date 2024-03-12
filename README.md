@@ -13,6 +13,11 @@ I'm most proficient using the following languages and technologies:
 * 📄 HTML / [Twig](https://github.com/twigphp/)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,next,nodejs,MongoDB,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,flutter,tailwind,react,next,nodejs,MongoDB,md,git,github,vscode,postman,stackoverflow" />
+  </a>
+</p>
 
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
