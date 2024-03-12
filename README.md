@@ -11,7 +11,7 @@ I'm most proficient using the following languages and technologies:
 * 🔨️ JavaScript / [React.js](https://github.com/reactjs)
 * 🎨 CSS / [Sass](https://github.com/sass/) / [Less](https://github.com/less/)
 * 📄 HTML / [Twig](https://github.com/twigphp/)
-* [![My Skills](https://skills.thijs.gg/icons?i=html)](#) HTML / [Twig](https://github.com/twigphp/) 
+* [![My Skills](https://skills.thijs.gg/icons?i=html&s=32)](#) HTML / [Twig](https://github.com/twigphp/) 
 * [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
 
 * ### **Languages and Tools:**  
