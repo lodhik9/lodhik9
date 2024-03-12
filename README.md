@@ -14,7 +14,7 @@ I'm most proficient using the following languages and technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,flutter,tailwind,react,next,nodejsMongoDB,git,github,postman,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,php,flutter,tailwind,react,next,nodejs,MongoDB,git,github,postman,stackoverflow" />
   </a>
 </p>
 
