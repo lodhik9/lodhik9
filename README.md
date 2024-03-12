@@ -12,9 +12,7 @@ I'm most proficient using the following languages and technologies:
 * 🎨 CSS / [Sass](https://github.com/sass/) / [Less](https://github.com/less/)
 * 📄 HTML / [Twig](https://github.com/twigphp/)
 
-<p align="center">
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,react,next,nodejs,MongoDB,md,git,github,vscode,postman,stackoverflow&perline=13)](#)
-</p>
 
 ### You are visitor: 
 ![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
