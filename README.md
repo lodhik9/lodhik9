@@ -3,7 +3,11 @@ I'm a **Software Engineer** with a history of working with different mobile and 
 
 
  You can reach me through: <a href="https://www.linkedin.com/in/muhammad-khan-lodhi/">
- <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+ <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> |
+<a href="https://stackoverflow.com/users/22289437/mlodhi">
+ <img  alt="StackOverflow" title="StackOverflow" src=" https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F58025&logoColor=FFFFFF&labelColor=&style=for-the-badge" height="30" align="center" />
+
+
 
 
 ### **Languages and Tools:**  
