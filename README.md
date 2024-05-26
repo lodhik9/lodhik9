@@ -2,7 +2,7 @@
 
 
 
-I'm a **Software Engineer** with a history of working with different mobile and web development stacks. ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
+I'm a **Software Engineer** with a history of working with different mobile and web development stacks. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
 
 
@@ -63,7 +63,7 @@ I'm most proficient using the following languages and technologies:
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /> You are visitor
+## You are visitor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
 ![Visitor Count](https://profile-counter.glitch.me/{lodhik9}/count.svg)
 
 
