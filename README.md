@@ -54,7 +54,7 @@ I'm most proficient using the following languages and technologies:
 
 
 
-[![Muhammad Lodhi's current streak](https://github-readme-streak-stats-blush.vercel.app/?user=lodhik9&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Muhammad Lodhi's current streak](https://streak-stats.demolab.com/?user=lodhik9&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 
 
