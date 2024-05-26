@@ -2,7 +2,7 @@
 
 
 
-I'm a **Software Engineer** with a history of working with different mobile and web development stacks. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="40" /> 
+I'm a **Software Engineer** with a history of working with different mobile and web development stacks. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> 
 
 
 
